@@ -1,0 +1,24 @@
+{
+  "name": "dog-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-images": "^2.0.0",
+    "json-update": "^3.0.0",
+    "jsonfile": "^2.4.0",
+    "lodash.merge": "^4.6.0",
+    "lodash.pick": "^4.4.0",
+    "lodash.unionby": "^4.8.0",
+    "minimist": "^1.2.0",
+    "path": "^0.12.7",
+    "request": "^2.79.0",
+    "url": "^0.11.0",
+    "wget-improved": "^1.4.0"
+  }
+}
